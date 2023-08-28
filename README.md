@@ -15,3 +15,4 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://w
 #### Contacts
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-martins-b3b215190)
+[![gmail](https://img.shields.io/badge/parkersfly@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](www.parkersfly@gmail.com)
