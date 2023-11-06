@@ -1,9 +1,9 @@
 ### Hi there, I'm Adrian Martins 👋
 
 #### About
-▸Motivado cada dia mais pelos desafios que a programação oferece, busco sempre melhorar para poder acompanhar esse universo de inúmeras possibilidades. 💻☕
+▸Motivated every day by the challenges that programming offers, I'm always looking to improve so that I can keep up with this universe of countless possibilities. 💻☕
 
-▸Estou ansioso para contribuir em projetos empolgantes e fazer a diferença na vida das pessoas através do código. 🌏
+▸I'm looking forward to contributing to interesting projects and making a difference to people's lives through code. 🌏
 
 #### Current stack
 - Main language: `Javascript`
