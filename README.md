@@ -1,7 +1,9 @@
 ### Hi there, I'm Adrian Martins 👋
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+▸Motivado cada dia mais pelos desafios que a programação oferece, busco sempre melhorar para poder acompanhar esse universo de inúmeras possibilidades. 💻☕
+
+▸Estou ansioso para contribuir em projetos empolgantes e fazer a diferença na vida das pessoas através do código. 🌏
 
 #### Current stack
 - Main language: `Javascript`
